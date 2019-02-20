@@ -1,0 +1,5 @@
+[run]
+include = dash8/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
